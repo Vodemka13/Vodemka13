@@ -1,2 +1,2 @@
-![hippo](./D.gif)
+<!-- ![hippo](./D.gif) -->
 ![hippo](./saturnius-trollge.gif)
